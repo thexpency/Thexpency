@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-👋 Hi there! I'm Bashir, an enthusiastic individual on a very exciting journey to become a skilled Data Analyst. Currently pursuing a Master's degree Process Engineering and Energy Technology, I bring a unique perspective to the world of data and every data driven aspiration.
+👋 Hi there! I'm Bashir, an enthusiastic individual on a very exciting journey to become a skilled Data Analyst. Currently pursuing a Master's degree in Process Engineering and Energy Technology, I bring a unique perspective to the world of data and every data driven aspiration.
 
 📊 Proficient in SQL, Tableau, Python, and Excel, I am passionate about leveraging data to derive meaningful insights. My analytical skills have been honed through two years of hands-on experience as a Procurement and Logistics Manager for leading oil and gas servicing companies. This background has instilled in me a keen eye for optimizing processes and a deep understanding of dynamic set of industries.
 
